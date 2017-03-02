@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Overflow
 
-You can use the [editor on GitHub](https://github.com/SuchangKo/overflow.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+건국대학교 컴퓨터공학과 동아리입니다. 각종 또라이가 모여있습니다. 해치지않아요
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
